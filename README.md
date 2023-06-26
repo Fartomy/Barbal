@@ -1,4 +1,4 @@
-<img src="https://github.com/Fartomy/Fartomy/blob/main/images/barbal-image.png" align="center" height="350">
+<img src="https://github.com/Fartomy/Fartomy/blob/main/images/barbal-image.png" align="center" height="500">
 
 ---
 
